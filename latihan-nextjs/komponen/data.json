@@ -1,0 +1,218 @@
+[
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Sonic",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Star Wars",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Mulan",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Jumanji",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Dora",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Avengers",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "The Box",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "The Jack In The Box",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Scary Movie",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Bloodshot",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Maleficent",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Bioskop",
+            "judul" : "Rumble",
+            "harga" : "35.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+
+            "judul" : "DWP X",
+            "harga" : "135.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Indonesia Nostalgia Festival",
+            "harga" : "200.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Music Festival 1",
+            "harga" : "150.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Music Festival 2",
+            "harga" : "150.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Konser Raisa",
+            "harga" : "200.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Jessie J",
+            "harga" : "500.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Blues Festival",
+            "harga" : "200.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Showcase Concert Afgan",
+            "harga" : "350.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Seafood Festival",
+            "harga" : "100.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Food Truck Festival",
+            "harga" : "100.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Fall Festival",
+            "harga" : "135.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+        
+
+    },
+    {
+        "Jenis_tiket": "Festival",
+            "judul" : "Acoustic Festival",
+            "harga" : "135.000",
+            "tanggal": "23 Mar 2019-23 Apr 2019",
+            "jam" : "09:00 - 21:00"
+
+    }
+]
