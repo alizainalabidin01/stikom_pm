@@ -7,7 +7,7 @@ class Data extends React.Component{
                     <Layout>
                     <div class="data" >
                         <section >
-                <div id="Bioskop" class="view"><h2>Bioskop</h2> </div>
+                <div id="Bioskop" class="view"><h2>Bioskop 2</h2> </div>
             <div class="main_bioskop">
                 <Isi link="/artikel/[kode]" as="/artikel/Sonic" img="/images/1.jpg" div="g_1" figure_class="bioskop_1" figcaption_class="" judul="Sonic" starting="Starting from" harga="Rp. 35.000" tanggal="📆 23 Mar 2019-23 Apr 2019" jam="🕚 09:00 - 21:00" tempat="📌 banyuwangi"/>
                 <Isi link="/artikel/[kode]" as="/artikel/Star Wars" img="/images/2.jpg" div="g_2" figure_class="bioskop_1" figcaption_class="" judul="Star Wars" starting="Starting from" harga="Rp. 35.000" tanggal="📆 23 Mar 2019-23 Apr 2019" jam="🕚 09:00 - 21:00" tempat="📌 banyuwangi"/>
