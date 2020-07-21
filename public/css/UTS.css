@@ -1,0 +1,446 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.primary {
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  background-color: rgba(231, 178, 31, 0.945);
+  top: 0;
+  margin-right: -20px;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+.navbar {
+  position: fixed;
+  right: 0px;
+  top: 0px;
+  z-index: 100;
+}
+
+.logo {
+  display: inline-block;
+  margin: 10px;
+  margin-left: 40px;
+}
+
+.logo img {
+  width: 150px;
+  margin: 10px;
+}
+
+.txt {
+  font-size: 20px;
+}
+
+.navbar_tombol {
+  display: inline-block;
+  float: right;
+  font-size: 40px;
+  margin-right: 30px;
+  position: relative;
+  z-index: 999;
+}
+
+.navbar_tombol:hover {
+  cursor: pointer;
+  color: white;
+}
+
+.header_left {
+  display: inline-block;
+  width: 300px;
+}
+
+.header_right {
+  display: inline-block;
+  float: right;
+}
+
+.navbar_isi {
+  background-color: #e07c0a;
+  width: 150px;
+  z-index: 99;
+  position: relative;
+  height: 900px;
+}
+
+.navbar_isi ul {
+  list-style: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 30px;
+  padding-top: 40px;
+}
+
+.navbar_isi ul a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar_isi ul li {
+  margin-bottom: 10px;
+}
+
+.navbar_isi ul a:hover {
+  color: white;
+}
+
+.navbar_isi select {
+  margin-bottom: 20px;
+  background-color: #e07c0a;
+  border: none;
+  margin-left: 25px;
+}
+
+.navbar_isi select:hover {
+  color: white;
+  border: none;
+}
+
+.main {
+  width: 100%;
+}
+
+.bioskop_1 {
+  width: 184px;
+}
+.bioskop_1 img {
+  width: 184px;
+}
+.bioskop_1 figcaption {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main_bioskop {
+  display: inline-block;
+  width: 100%;
+  margin: 10px;
+}
+
+.main_festival {
+  display: inline-block;
+  width: 100%;
+  margin: 10px;
+}
+
+.data {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  margin-top: 130px;
+}
+
+.data:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.view h2 {
+  display: inline-block;
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.view a {
+  text-decoration: none;
+  color: black;
+  font-family: "Segoe UI";
+  float: right;
+  margin-right: 40px;
+  margin-top: 7px;
+}
+
+.view a:hover {
+  text-decoration: none;
+  color: gold;
+}
+
+.g_1, .g_2, .g_3, .g_4 {
+  display: inline-block;
+  list-style: none;
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+.g_1 a, .g_2 a, .g_3 a, .g_4 a {
+  text-decoration: none;
+  color: black;
+}
+
+.g_1 a:hover, .g_2 a:hover, .g_3 a:hover, .g_4 a:hover {
+  color: gold;
+}
+
+footer {
+  background-color: #ecebf0;
+  font-size: 12px;
+  width: 105%;
+  padding: 5px;
+  display: inline-block;
+}
+footer b {
+  font-family: Arial;
+}
+footer ul {
+  padding: 0;
+  margin: 10px;
+  list-style: none;
+}
+footer ul li {
+  display: inline-block;
+  font-family: "Segoe UI";
+}
+footer ul li.list {
+  display: block;
+}
+footer ul img {
+  height: 15px;
+  padding: 5px;
+}
+footer .teks5, footer .teks6 {
+  padding-top: 50px;
+  font-size: 15px;
+}
+footer .teks6 {
+  text-align: right;
+}
+
+[class*=col-] {
+  float: left;
+}
+
+[class*=col-] {
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  .col-s-1 {
+    width: 8.33%;
+  }
+
+  .col-s-2 {
+    width: 16.66%;
+  }
+
+  .col-s-3 {
+    width: 25%;
+  }
+
+  .col-s-4 {
+    width: 33.33%;
+  }
+
+  .col-s-5 {
+    width: 41.66%;
+  }
+
+  .col-s-6 {
+    width: 50%;
+  }
+
+  .col-s-7 {
+    width: 58.33%;
+  }
+
+  .col-s-8 {
+    width: 66.66%;
+  }
+
+  .col-s-9 {
+    width: 75%;
+  }
+
+  .col-s-10 {
+    width: 83.33%;
+  }
+
+  .col-s-11 {
+    width: 91.66%;
+  }
+
+  .col-s-12 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .col-1 {
+    width: 8.33%;
+  }
+
+  .col-2 {
+    width: 16.66%;
+  }
+
+  .col-3 {
+    width: 25%;
+  }
+
+  .col-4 {
+    width: 33.33%;
+  }
+
+  .col-5 {
+    width: 41.66%;
+  }
+
+  .col-6 {
+    width: 50%;
+  }
+
+  .col-7 {
+    width: 58.33%;
+  }
+
+  .col-8 {
+    width: 66.66%;
+  }
+
+  .col-9 {
+    width: 75%;
+  }
+
+  .col-10 {
+    width: 83.33%;
+  }
+
+  .col-11 {
+    width: 91.66%;
+  }
+
+  .col-12 {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .g_4 {
+    display: none;
+  }
+
+  .g_1, .g_2, .g_3 {
+    margin-right: 10px;
+  }
+}
+@media only screen and (max-width: 780px) {
+  .g_4, .g_3 {
+    display: none;
+  }
+
+  .g_1, .g_2 {
+    margin-right: 10px;
+    margin-left: 60px;
+  }
+}
+@media only screen and (max-width: 540px) {
+  .g_4, .g_3, .g_2 {
+    display: none;
+  }
+
+  .g_1 {
+    margin-right: 10px;
+    margin-left: 30%;
+  }
+}
+.bayar {
+  height: 100%;
+  width: 100%;
+}
+
+.form {
+  position: relative;
+  background-color: lightgrey;
+  width: 300px;
+  margin-bottom: 10%;
+  text-align: center;
+  border-radius: 10px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container{
+  margin-top: 20%;
+  margin-bottom: 10%;
+}
+
+.input_text {
+  padding-top: 20px;
+}
+.input_text span {
+  font-family: "Segoe UI";
+}
+.input_text input {
+  height: 25px;
+  border-radius: 5px;
+  border: none;
+}
+
+.select {
+  margin-top: 20px;
+}
+.select span {
+  font-family: "Segoe UI";
+}
+.select select {
+  height: 25px;
+  border: none;
+}
+.select option {
+  font-family: "Segoe UI";
+}
+
+.input_button {
+  padding: 20px;
+}
+.input_button a {
+  text-decoration: none;
+}
+
+.pesan, .cancel {
+  display: inline-block;
+}
+
+.b_1, .b_2 {
+  background-color: #ecebf0;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 3px;
+}
+
+.kotak_himbauan {
+  position: fixed;
+  background-color: #ecebf0;
+  width: 450px;
+  height: 300px;
+  left: 50%;
+  top: 50%;
+  margin-left: -225px;
+  margin-top: -150px;
+  border-radius: 10px;
+}
+
+.isi_himbauan {
+  margin-top: 50px;
+  color: black;
+  font-family: "Segoe UI";
+}
+.isi_himbauan .lanjut {
+  margin-top: 20px;
+}
+.isi_himbauan .lanjut a {
+  text-decoration: none;
+  font-size: 24px;
+  color: black;
+}
+.isi_himbauan .lanjut a:hover {
+  color: #e07c0a;
+}
+
+/*# sourceMappingURL=UTS.css.map */
