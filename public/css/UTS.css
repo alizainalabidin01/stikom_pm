@@ -179,11 +179,15 @@
 .g_1 a:hover, .g_2 a:hover, .g_3 a:hover, .g_4 a:hover {
   color: gold;
 }
-
+.bot{
+  padding: 10px;
+  background-color:#ecebf0 ;
+}
 footer {
   background-color: #ecebf0;
   font-size: 12px;
   display: inline-block;
+  width: 100%;
 }
 footer b {
   font-family: Arial;
@@ -196,6 +200,7 @@ footer ul {
 footer ul li {
   display: inline-block;
   font-family: "Segoe UI";
+
 }
 footer ul li.list {
   display: block;
