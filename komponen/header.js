@@ -5,12 +5,14 @@ class Home extends React.Component{
     render(){
         return(
         <div class="primary">
+           
         <header class= "nav">
             <Header/> 
-        </header>
+        
         <div class="navbar">
             <Nav/>
         </div>
+        </header>
     </div>
         )}
     }
