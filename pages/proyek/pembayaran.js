@@ -35,6 +35,7 @@ import Nav from '../../komponen/end';
                     <div class="input_button">
                     <div class="cancel">
                        <Link href="/index"><a><button class="b_1">Cancel</button></a></Link></div>
+                       <Nav/>
                     </div>
                 </div></center>
                 </div>  
